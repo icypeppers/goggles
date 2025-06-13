@@ -5,25 +5,25 @@
 
 
 ! High Boost Rules (Strength 10)
-$boost,site=wiki.archlinux.org
-$boost,site=postgresql.org
-$boost,site=docs.python.org
-$boost,site=twitter.com
-$boost,site=chromewebstore.google.com
-$boost,site=anime-planet.com
-$boost,site=studocu.com
-$boost,site=www.anime-planet.com
-$boost,site=webtoonxyz.com
-$boost,site=omegascans.com
+$boost=1,site=wiki.archlinux.org
+$boost=1,site=postgresql.org
+$boost=1,site=docs.python.org
+$boost=1,site=twitter.com
+$boost=1,site=chromewebstore.google.com
+$boost=1,site=anime-planet.com
+$boost=1,site=studocu.com
+$boost=1,site=www.anime-planet.com
+$boost=1,site=webtoonxyz.com
+$boost=1,site=omegascans.com
 $boost=3,site=twitch.tv
 $boost=3,site=ebay.com
-$boost,site=coursicle.com
-$boost,site=ratemyprofessor.com
-$boost,site=imdb.com
-$boost,site=myanimelist.net
-$boost,site=youtube.com
-$boost,site=store.steampowered.com
-$boost=3,site=reddit.com
+$boost=1,site=coursicle.com
+$boost=1,site=ratemyprofessor.com
+$boost=1,site=imdb.com
+$boost=1,site=myanimelist.net
+$boost=1,site=youtube.com
+$boost=1,site=store.steampowered.com
+$boost=1,site=reddit.com
 
 
 ! Downrank Rules (from letterboxd.com to support.microsoft.com, inclusive)
@@ -49,7 +49,7 @@ $downrank,site=quora.com
 $downrank,site=support.microsoft.com
 
 
-!Discard Rules (from 9to5answer.com to mangadex.com, inclusive) ---
+!Discard Rules (from 9to5answer.com to mangadex.com, inclusive)
 $discard,site=9to5answer.com
 $discard,site=howtogeek.com
 $discard,site=zdnet.com
@@ -68,25 +68,25 @@ $discard,site=tripadvisor.com
 $discard,site=mangadex.com
 
 
-!Default Boost Rules (for all other domains in your list not covered above) ---
-$boost,site=developer.apple.com
-$boost,site=css-tricks.com
-$boost,site=en.cppreference.com
-$boost,site=news.ycombinator.com
-$boost,site=developer.mozilla.org
-$boost,site=doc.rust-lang.org
-$boost,site=investopedia.com
-$boost,site=cloudflare.com
-$boost,site=threads.com
-$boost,site=x.com
-$boost,site=linktr.ee
-$boost,site=amazon.com
-$boost,site=help.vivaldi.com
-$boost,site=github.com
-$boost,site=coursehero.com
-$boost,site=aliexpress.com
-$boost,site=temu.com
-$boost,site=tiktok.com
-$boost,site=instagram.com
-$boost,site=archive.org
-$boost,site=pinterest.com
+!Default Boost Rules (for all other domains in your list not covered above)
+$boost=1,site=developer.apple.com
+$boost=1,site=css-tricks.com
+$boost=1,site=en.cppreference.com
+$boost=1,site=news.ycombinator.com
+$boost=1,site=developer.mozilla.org
+$boost=1,site=doc.rust-lang.org
+$boost=1,site=investopedia.com
+$boost=1,site=cloudflare.com
+$boost=1,site=threads.com
+$boost=1,site=x.com
+$boost=1,site=linktr.ee
+$boost=1,site=amazon.com
+$boost=1,site=help.vivaldi.com
+$boost=1,site=github.com
+$boost=1,site=coursehero.com
+$boost=1,site=aliexpress.com
+$boost=1,site=temu.com
+$boost=1,site=tiktok.com
+$boost=1,site=instagram.com
+$boost=1,site=archive.org
+$boost=1,site=pinterest.com
