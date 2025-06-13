@@ -5,25 +5,25 @@
 
 
 ! High Boost Rules (Strength 10)
-$boost=10,site=wiki.archlinux.org
-$boost=10,site=postgresql.org
-$boost=10,site=docs.python.org
-$boost=10,site=twitter.com
-$boost=10,site=chromewebstore.google.com
-$boost=10,site=anime-planet.com
-$boost=10,site=studocu.com
-$boost=10,site=www.anime-planet.com
-$boost=10,site=webtoonxyz.com
-$boost=10,site=omegascans.com
-$boost=10,site=twitch.tv
-$boost=10,site=ebay.com
-$boost=10,site=coursicle.com
-$boost=10,site=ratemyprofessor.com
-$boost=10,site=imdb.com
-$boost=10,site=myanimelist.net
-$boost=10,site=youtube.com
-$boost=10,site=store.steampowered.com
-$boost=10,site=reddit.com
+$boost,site=wiki.archlinux.org
+$boost,site=postgresql.org
+$boost,site=docs.python.org
+$boost,site=twitter.com
+$boost,site=chromewebstore.google.com
+$boost,site=anime-planet.com
+$boost,site=studocu.com
+$boost,site=www.anime-planet.com
+$boost,site=webtoonxyz.com
+$boost,site=omegascans.com
+$boost=3,site=twitch.tv
+$boost=3,site=ebay.com
+$boost,site=coursicle.com
+$boost,site=ratemyprofessor.com
+$boost,site=imdb.com
+$boost,site=myanimelist.net
+$boost,site=youtube.com
+$boost,site=store.steampowered.com
+$boost=3,site=reddit.com
 
 
 ! Downrank Rules (from letterboxd.com to support.microsoft.com, inclusive)
