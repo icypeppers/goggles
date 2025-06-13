@@ -6,7 +6,7 @@
 
 ! High Boost Rules (Strength 1
 
-
+$boost=1,site=reddit.com
 ! Downrank Rules (from letterboxd.com to support.microsoft.com, inclusive)
 $downrank,site=letterboxd.com
 $downrank,site=en.wiktionary.org
@@ -29,7 +29,8 @@ $downrank,site=msn.com
 $downrank,site=quora.com
 $downrank,site=support.microsoft.com
 
-
+$discard,site=cnet.com
+$discard,site=9to5mac.com
 !Discard Rules (from 9to5answer.com to mangadex.com, inclusive)
 $discard,site=9to5answer.com
 $discard,site=howtogeek.com
