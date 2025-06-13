@@ -29,6 +29,8 @@ $downrank,site=msn.com
 $downrank,site=quora.com
 $downrank,site=support.microsoft.com
 
+$discard,site=trustpilot.com
+$discard,site=hotdeals.com
 $discard,site=cnet.com
 $discard,site=9to5mac.com
 $discard,site=www.hotflightdeals.com
