@@ -31,6 +31,7 @@ $downrank,site=support.microsoft.com
 
 $discard,site=cnet.com
 $discard,site=9to5mac.com
+$discard,site=www.hotflightdeals.com
 !Discard Rules (from 9to5answer.com to mangadex.com, inclusive)
 $discard,site=9to5answer.com
 $discard,site=howtogeek.com
