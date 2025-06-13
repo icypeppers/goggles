@@ -1,0 +1,10 @@
+! name: Test Goggle
+! description: Test Goggle
+! public: true
+! author: Aditya Paliwal
+! avatar: #de0320
+
+$discard,site=twitter.com
+$discard,site=x.com
+$discard,site=instagram.com
+$discard,site=reddit.com
